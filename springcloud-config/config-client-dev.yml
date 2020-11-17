@@ -1,4 +1,3 @@
-server:
-  port: 8773
+
 
 foo: foo version 3
