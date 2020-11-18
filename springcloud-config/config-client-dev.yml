@@ -2,3 +2,5 @@ server:
   port: 8773
 
 foo: foo version 5 test
+
+test refresh
